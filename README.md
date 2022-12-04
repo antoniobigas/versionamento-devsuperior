@@ -27,3 +27,9 @@ se ficar dando erro isso aqui resolveu pra mim.
 
 git remote set-url origin https://github.com/usuario/repositorio
 
+
+
+forcar o push 
+git push --force origin master
+
+
