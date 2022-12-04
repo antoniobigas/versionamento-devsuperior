@@ -16,7 +16,9 @@ git status | mostra o status do projeto
 git branch -M main | garantir que esta como main
 
 git remote add origin git@github@.com:seuusuario/seurepositorio.git  || Para adicionar um repositorio
+
 No caso deste exemplo:
+
 git remote add origin git@github.com:antoniobigas/nivelamento-versionamento.git
 
 git push -u origin main | Envia para o github o que você deseja.
