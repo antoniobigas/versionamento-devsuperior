@@ -32,4 +32,8 @@ git remote set-url origin https://github.com/usuario/repositorio
 forcar o push 
 git push --force origin master
 
+#Apagar conteudo
+
+git reset --hard "NUMEROCOMMIT OU ID" || tudo apos este commit é apagado
+
 
